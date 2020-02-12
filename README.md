@@ -1,5 +1,5 @@
 # PriorityLocker
-A simple PowerShell script to lock and unlock something at high priority.
+A simple PowerShell script to lock and unlock something at high priority. Originally posted on /r/LowSpecGamer.
 
 The Batch files REQUIRE admin access
 
